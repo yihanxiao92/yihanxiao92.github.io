@@ -1,2 +1,3 @@
-Hello Yihan
+Hello, Yihan.
+
 This is the second commit
